@@ -1,4 +1,4 @@
-##### 未来予想して賭けをするSNS（近日公開予定）
+##### 未来予想して賭けをするSNS
 https://nirai.io/betohm/ja/lp.html
 
 使用技術：flutter, firebase, algolia
